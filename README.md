@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykumarkc&show_icons=true&locale=en&layout=compact" alt="ajaykumarkc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaykumarkc&show_icons=true&locale=en" alt="ajaykumarkc" /></p>
+
