@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ajaykumarkc03@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1s8gmx-YjIs88Ty9kkXzEUyCnmN549mD-/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1lfY1hzHKnbNveNSjZslIQd9mp8jsRSiF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
